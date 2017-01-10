@@ -1,0 +1,11 @@
+com\disney\studios\domain\Breed.class
+com\disney\studios\Application.class
+com\disney\studios\domain\Dog.class
+com\disney\studios\VoterWatcher.class
+com\disney\studios\controller\DogController.class
+com\disney\studios\util\JSONMessageObject.class
+com\disney\studios\util\Logger.class
+com\disney\studios\service\VotingService.class
+com\disney\studios\PetLoader.class
+com\disney\studios\dao\DogRepository.class
+com\disney\studios\dao\BreedRepository.class
