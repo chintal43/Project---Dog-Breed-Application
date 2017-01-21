@@ -18,17 +18,17 @@ You need Java 8 installed.
 ## JSON Responses
 This is the example structure of the JSON Response.
 
-```
+
 [{"id":1,"pictureUrl":"http://i.imgur.com/eE29vX4.png","votes":0,"breedName":"Labrador"}]
 
 ## Building
 
-```
+
 $ mvn package
-```
+
 
 ## Running
 
-```
+
 $ java -jar target/api_interview-0.1.0.jar -jar --server.port=8181
-```
+
